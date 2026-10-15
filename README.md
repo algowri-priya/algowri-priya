@@ -9,6 +9,7 @@ I'm an Electronics and TeleCommunication student learning VLSI and digital desig
 
 ### My Projects
 - [Hello World](https://github.com/algowri-priya/hello-world) — My first GitHub repository
-- More VLSI projects coming soon: ALU, FSM, FIFO, UART
+- [Verilog Adders](https://github.com/algowri-priya/verilog-adders) — Logic gates, half adder and full adder, simulated in Vivado
+- More VLSI projects coming soon: 4-bit adder, ALU, FSM, FIFO, UART
 
 Thanks for visiting my profile!
